@@ -13,5 +13,4 @@ round(45.8564564,2)
 #El 2 genera un redondeo de dos dígitos después de la coma 45.86
 
 #Utilizando las anteriores funciones aprendidas crea un nuevo data set de alturas
-#redondeando dichos valores a solo un decimal y dejando solo las
-#alturas sin repetirse
+#redondeando dichos valores a solo un decimal 
