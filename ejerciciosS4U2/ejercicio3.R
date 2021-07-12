@@ -1,4 +1,4 @@
-#Carga los datos que se encuentran a continuacion
+#Carga los datos que se encuentran a continuación
 library(dslabs)
 data("admissions")
 
