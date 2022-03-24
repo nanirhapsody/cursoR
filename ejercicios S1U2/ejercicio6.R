@@ -1,13 +1,10 @@
-#Correr el c骴igo que se encuentra a continuaci髇
+#Correr el c贸digo que se encuentra a continuaci贸n
 library(dslabs)
 data(murders)
-#La funci髇 `c()` es la abreviaci髇 de concatenar,
-#acci髇 de conectar 韙ems en una cadena
-#Esta funci髇 agrega los textos a un 鷑ico vector
+#La funci贸n `c()` es la abreviaci贸n de concatenar,
+#acci贸n de conectar 铆tems en una cadena
+#Esta funci贸n agrega los textos a un 煤nico vector
 # al cual llamaremos x
 x <- c("a", "a", "b", "b", "b", "c")
-# La funci髇 tabla obtiene como entrada un vector y retorna 
-#la frecuencia de cada elemento 鷑ico en el
-table(x)
 
-#Escribe una l韓ea de c骴igo que retorne el n鷐ero de estados por regi髇
+#Chequea el tama帽o del vector
