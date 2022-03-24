@@ -1,11 +1,9 @@
-#Correr el c骴igo que se encuentra a continuaci髇
+#Correr el c贸digo que se encuentra a continuaci贸n
 library(dslabs)
 data(murders)
 x <- c("a", "a", "b", "b", "b", "c")
-# La 'c' en el c骴igo de arriba es la abreviaci髇 para "concatenar" 
-# Acci髇 de conectar items a una cadena. La funci髇 c conecta todos los strings
-#Creamos una variable X para guardar esta cadena.
-# Corriendo ahora la siguiente funci髇 vemos su comportamiento
+
+# Corriendo ahora la siguiente funci贸n vemos su comportamiento
 table(x)
 
-# Escribe una l韓ea de c骴igo para visualizar el n鷐ero de estados por regi髇
+# Escribe una l铆nea de c贸digo para visualizar el n煤mero de estados por regi贸n
