@@ -1,8 +1,9 @@
-#Cu醠 de las siguientes expresiones es siempre
+x <- c(TRUE, TRUE, FALSE, TRUE)
+#Cu谩l de las siguientes expresiones es siempre
 #FALSE cuando al menos uno de los elementos
-#del vector l骻ico x es TRUE?
+#del vector l贸gico x es TRUE?
 #Puedes probar ejemplos en la consola
-#Opci髇 1) all(x)
-# Opci髇 2) any(x)
-# Opci髇 3) any(!x)
-# Opci髇 4) all(!x)
+#Opci贸n 1) all(x)
+# Opci贸n 2) any(x)
+# Opci贸n 3) any(!x)
+# Opci贸n 4) all(!x)
