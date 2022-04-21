@@ -1,7 +1,9 @@
-#Carga los datos que se encuentran a continuación
+#Carga los datos que se encuentran a continuaciÃ³n
 library(tidyr)
 library(dslabs)
+library(dplyr)
+
 data("storms")
 
-#Utilizando la función separte separa el tipo de tormenta encontrado en la columna status
+#Utilizando la funciÃ³n separte separa el tipo de tormenta encontrado en la columna status
 # en dos columnas tipo 1 y tipo 2
