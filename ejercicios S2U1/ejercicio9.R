@@ -1,10 +1,10 @@
-#La función seq() tiene otro argumento muy útil denominado length.out
+#La funciÃ³n seq() tiene otro argumento muy Ãºtil denominado length.out
 #Este argumento nos permite generar secuencias crecientes 
-#en un numero constante y de un tamaño determinado por ejemplo
+#en un numero constante y de un tamaÃ±o determinado por ejemplo
 x <- seq(0, 100, length.out = 5)
-#Produce los números 0, 25, 50, 75, 100 
+#Produce los nÃºmeros 0, 25, 50, 75, 100 
 
 
-#Creamos un vector a de 100 elementos
-a <- seq(1, 10, length.out = 100)
-#Determina la clase del objeto a
+#Crea un vector con nombre a, de 100 elementos.
+
+#Determina ahora la clase del objeto a.
