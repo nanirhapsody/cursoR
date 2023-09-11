@@ -2,14 +2,8 @@
 library(dslabs)
 data(na_example)
 
-# Chequea su estructura 
-str(na_example)
-
-# Encuentra el promedio del dataset 
-mean(na_example)
-
-# La funci髇 is.na retorna un vector l骻ico que nos dice que entradas con NA
-#Utiliza la funci髇 is.na para crear una variable 'ind' con los 韓dices
+# La funci贸n is.na retorna un vector l贸gico que nos dice que entradas son NA
+#Utiliza la funci贸n is.na para crear una variable 'ind' con los 铆ndices
 # de las entradas que son NA is.na(na_example)
 
-# Determina cuantos NA hay en el data set utilizando la funci髇 sum()
+# Determina cuantos NA hay en el data set utilizando la funci贸n sum()
