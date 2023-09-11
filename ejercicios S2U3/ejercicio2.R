@@ -1,6 +1,6 @@
-#Para comenzar a practicar la aritmética de vectores
+#Para comenzar a practicar la aritmÃ©tica de vectores
 #vamos a convertir un vector de temperaturas de ciudades de Fahrenheit a Celsius
-# la conversión se realiza con la formula C= 5/9 X (F - 32) 
+# la conversiÃ³n se realiza con la formula C= 5/9 X (F - 32) 
 # Siendo C la temperatura convertida a Celsius y F la temperatura en Fahrenheit
 
 # Primero creamos un vector de ciudades llamado `city` 
@@ -11,4 +11,5 @@ temp <- c(35, 88, 42, 84, 81, 30)
 
 # Crea con los vectores de 'city' y 'temp' en Celsius
 #un data frame llamado `city_temps`
-# Recuerda la función data.frame(name = city, temperature = temp)
+#Que contenga dos columnas ciudades = city y temperaturas = temp
+# Recuerda la funciÃ³n data.frame()
