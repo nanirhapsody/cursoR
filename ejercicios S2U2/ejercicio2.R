@@ -1,11 +1,15 @@
-#La funci髇 order() retorna el vector de 韓dices o posiciones
-#resultantes de ordenar el vector. 
-# Por esto la funci髇 sort(x) y x[order(x)] tienen el mismo resultado
+#Cargamos las librerias y datos a utilizar
+library(dslabs)
+data(murders)
 
-# Accede a la variable poblaci髇 del dataset y almac閚ala en pop
+#La funci贸n order() retorna el vector de 铆ndices o posiciones
+#resultantes de ordenar el vector. 
+# Por esto la funci贸n sort(x) y x[order(x)] tienen el mismo resultado
+
+# Accede a la variable poblaci贸n del dataset y almac茅nala en pop
 
 #Utiliza el comando order() para encontrar el vector de posiciones
-#Que ordenar韆n la variable pop y gu醨dalo en una nueva variable 'ord'
+#Que ordenar铆an la variable pop y gu谩rdalo en una nueva variable 'ord'
 
 
-#Encuentra el n鷐ero de fila del estado con la menor poblaci髇
+#Encuentra el n煤mero de fila del estado con la menor poblaci贸n
