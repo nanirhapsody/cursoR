@@ -1,9 +1,13 @@
-#Ya sabemos cómo obtener la fila del menor estado pero como sabemos que estado es?
+#Cargamos las librerias y datos a utilizar
+library(dslabs)
+data(murders)
 
-# Definimos la variable i para que guarde el número de fila del estado más pequeño
+#Ya sabemos cÃ³mo obtener la fila del menor estado pero como sabemos que estado es?
+
+# Definimos la variable i para que guarde el nÃºmero de fila del estado mÃ¡s pequeÃ±o
 i <- which.min(murders$population)
 
 # Definir la variable estados para almacenar el nombre de los estados 
 # del data frame
 
-# Utiliza la variable estados para encontrar el estado más pequeño
+# Utiliza la variable estados para encontrar el estado mÃ¡s pequeÃ±o
