@@ -1,3 +1,7 @@
+#Cargamos las librerias y datos a utilizar
+library(dslabs)
+data(murders)
+
 #Puedes crear un data frame utilizando el comando data.frame().
 #Por ejemplo:
 
@@ -14,7 +18,7 @@ city_temps <- data.frame(name = city, temperature = temp)
 #data set de murders
 
 
-# Define una variable 'ranks' que determine el ranking de los tamaños
+# Define una variable 'ranks' que determine el ranking de los tamaÃ±os
 #(de mas pequeno a mas grande) recuerda la funcion rank(murders$population)
 
 
