@@ -1,17 +1,21 @@
+#Cargamos las librerias y datos a utilizar
+library(dslabs)
+data(murders)
+
 # Accedemos a la variable `state` 
 #guardamos la variable en otra denominada estados 
 estados <- murders$state 
 
-# Ordenamos el objeto alfabéticamente y lo redefinimos
+# Ordenamos el objeto alfabÃ©ticamente y lo redefinimos
 estados <- sort(estados) 
 
-# Reporta el primero alfabéticamente  
+# Reporta el primero alfabÃ©ticamente  
 estados[1]
 
-# Accede a los datos de población del dataset y almacénalos en 
+# Accede a los datos de poblaciÃ³n del dataset y almacÃ©nalos en 
 #una variable pop
 
-# Ordena este objeto y redefínelo
+# Ordena este objeto y redefÃ­nelo
 
-# Reporta el elemento con menor población 
+# Reporta el elemento con menor poblaciÃ³n 
 #(Utiliza el operador [])
