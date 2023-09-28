@@ -1,12 +1,11 @@
-#Carga los datos que se encuentran a continuación
+#Carga los datos que se encuentran a continuaciÃ³n
 install.packages("NHANES")
 library(NHANES)
 data(NHANES)
 
-#Podemos combinar ambos resúmenes de datos de los ejercicios anteriores 
-#La función group_by nos permite agrupar por más de una variable obteniendo un gran resumen
-group_by(AgeDecade, Gender)
+#Podemos combinar ambos resÃºmenes de datos de los ejercicios anteriores 
 
-
+#La funciÃ³n group_by nos permite agrupar por mÃ¡s de una variable obteniendo un gran resumen
+#Intenta aplicarla para agrupar por gÃ©nero y edades este dominio de datos
 
 
